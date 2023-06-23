@@ -8,7 +8,5 @@ permalink: /contacts/
 [GitHub](https://github.com/etkr4k)
 [Mail](mailto:etkr4k@chillpad.club)
 
-![Telegram](/assets/my-icon/telegram-96.svg)
+[![](/assets/my-icon/telegram-96.svg)](https://t.me/etkr4k)
 
-
-[![/assets/my-icon/telegram-96.svg][telegram]](https://t.me/etkr4k)
