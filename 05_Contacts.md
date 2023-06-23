@@ -9,3 +9,4 @@ permalink: /contacts/
 [Mail](mailto:etkr4k@chillpad.club)
 
 ![](/assets/my-icon/telegram-96.svg)
+![/assets/my-icon/telegram-96.svg](https://t.me/etkr4k)
