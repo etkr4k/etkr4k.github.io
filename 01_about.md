@@ -16,3 +16,4 @@ permalink: /about/
 - собираю устройства на базе ESPhome для интеграции в Home Assistant
 - изготавливаю дубликаты ключей для домофонов
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=etkr4k&theme=soft-green&locale=ru)](https://git.io/streak-stats)
