@@ -12,3 +12,9 @@ title: Настройка сервера Wireguard
 `chmod +x wireguard-install.sh`
 Запускаем
 `./wireguard-install.sh`
+
+Links:
+[Быстрая установка](https://habr.com/ru/sandbox/189100/)  
+[Web UI](https://github.com/ngoduykhanh/wireguard-ui)
+[Iptables](https://www.cyberciti.biz/faq/how-to-set-up-wireguard-firewall-rules-in-linux/)
+[7 решений](https://habr.com/ru/articles/738890/)
