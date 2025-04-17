@@ -41,13 +41,10 @@ ssh <username>@<ip>
 ```
 sudo nano /etc/ssh/sshd_config
 Снимаем коментарии (#) и меняем дефолтный порт, запрещаем доступ по паролю и доступ от root
-
 Port <port>
 PermitRootLogin no
 PubkeyAuthentication yes
 PasswordAuthentication no
-
-
 Проверяем наличе файлов в /etc/ssh/sshd_config.d/ иногда, там сюрприз от хостера
 ```
 10. Перезапускаем SSH
