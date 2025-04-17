@@ -1,7 +1,7 @@
 ---
 layout: page
-title: VPN
+title: ChillPad VPN
 permalink: /vpn/
 ---
-# Проблемы с доступо к ~~джойказино~~ интернет? 
-## [ChillPad VPN](https://t.me/CP_VPNBot) - забудь о проблемах!
+## Проблемы с доступом к ~~джойказино~~ интернету? 
+## Забудь о проблемах с [ChillPad VPN](https://t.me/CP_VPNBot)!
