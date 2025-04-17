@@ -1,7 +1,9 @@
 ---
 layout: post
+title: WireGuard UI
+categories: vpn
 ---
-# Заметка о настройке WireGuard на VPS
+Заметка о настройке WireGuard UI на VPS
 ```
 apt-get update && apt-get upgrade -y
 ```
