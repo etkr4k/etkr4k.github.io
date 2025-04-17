@@ -22,14 +22,16 @@ title: После покупки VPS
 `ssh <username>@<ip>`
 9. Редактируем настройки SSH-сервера
 `sudo nano /etc/ssh/sshd_config`
+
 Снимаем коментарии (#) и меняем дефолтный порт, запрещаем доступ по паролю и доступ от root
+
 ```
 Port <port>
 PermitRootLogin no
 PubkeyAuthentication yes
 PasswordAuthentication no
-
 ```
+
 Проверяем наличе файлов в `/etc/ssh/sshd_config.d/`
 10. Перезапускаем SSH
 `sudo systemctl retsart sshd`
