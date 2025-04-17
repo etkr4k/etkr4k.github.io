@@ -5,9 +5,11 @@ title: После покупки VPS
 Небольшая заметка-шпаргалка о минимальных действиях после покупки VPS.
 
 1. Подключаемся
-`ssh root@<ip>`
+```ssh root@<ip>```
 2. Обновляем пакеты и ставим sudo
-`apt update && apt upgarde && apt install sudo`
+```
+apt update && apt upgarde && apt install sudo
+```
 3. Меняем пароль
 `passwd`
 4. Создаем нового пользователя
