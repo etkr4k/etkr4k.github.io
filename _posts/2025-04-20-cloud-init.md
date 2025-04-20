@@ -90,7 +90,7 @@ runcmd:
   - systemctl restart ssh
 
 
-final_message: "Cloud-Init setup complite 🎉"
+final_message: "Cloud-Init setup complite!"
 ```
 После создания сниппета, клонируем ВМ и прицепляем к ней сниппет
 ```
